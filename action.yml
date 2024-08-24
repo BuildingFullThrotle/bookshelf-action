@@ -2,7 +2,7 @@ name: "Books Tracker"
 
 description: "Track your reading using GitHub Actions"
 
-author: "Anand Chowdhary <https://github.com/AnandChowdhary>"
+author: "Anand Chowdhary <https://github.com/BuildingFullThrotle>"
 
 inputs:
   command:
